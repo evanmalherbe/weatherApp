@@ -38,7 +38,7 @@ To run this project, do the following:
 ## Usage 
 To use this app, simply type in the name of a city that you want to know the current weather conditions in, (e.g. Cape Town), and click the "Get Weather" button. The resulting information will be displayed underneath. See figure 1 below.
 
-![figure 1](screenshot.png)
+![figure 1](src/screenshot.png)
 
 ## Credits
 This project was created by Evan Malherbe as part of a task for HyperioDev Full Stack Development Bootcamp November 2021 [GitHub profile](https://github.com/evanmalherbe) 
