@@ -1,0 +1,63 @@
+/* HyperionDev Full Stack Web Development Bootcamp - Level 2 - Task 14 - Weather app 
+
+Styling */
+.body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Logo styling */
+.logoImg {
+  height: 4rem;
+  pointer-events: none;
+  margin: 0rem 1rem;
+}
+
+/* Header */
+.App-header {
+  background-color: white;
+  height: 5rem;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  font-size: 1.5rem;
+  color: blue;
+
+  border-bottom: 1px solid #dedede;
+}
+
+/* Container div for input section (form) and output section */
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+
+  width: 40rem;
+
+  padding: 1rem;
+  color: black;
+  font-size: 1rem;
+
+  border: 1px solid #dedede;
+  border-radius: 8px;
+}
+
+.input h2 {
+  margin-top: 0;
+  color: blue;
+
+}
+
+.output {
+  display: flex;
+
+  margin-top: 2rem;
+  
+}
+
+/* End of stylesheet */
+
+
